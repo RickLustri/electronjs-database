@@ -43,7 +43,6 @@ function registrarUsuario(event) {
     }else {
       console.log("Usuário registrado com sucesso!");
     };
-
   });
 
 }
